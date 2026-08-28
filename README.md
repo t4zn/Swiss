@@ -15,7 +15,6 @@ Swiss consolidates disparate developer tools, monitoring dashboards, and deploym
 
 - **Unified Control Plane:** Centralize microservice telemetry, environment configs, and API routes in one place.
 - **Instant Integrations:** Out-of-the-box connectors for GitHub, AWS, GCP, Cloudflare, and major CI/CD pipelines.
-- **Role-Based Access & Audit:** Granular permissions, SSO (SAML/OAuth2), and SOC2-ready audit logging.
 - **Edge-Ready Performance:** Sub-millisecond routing and webhook processing powered by globally distributed infrastructure.
 - **CLI & REST/GraphQL APIs:** Automate every Swiss action directly from your terminal or deployment scripts.
 
