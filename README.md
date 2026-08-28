@@ -29,7 +29,7 @@ Swiss consolidates disparate developer tools, monitoring dashboards, and deploym
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 
